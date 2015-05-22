@@ -1,5 +1,5 @@
 # ProjectEular
-Project Eular Helper For Go
+I'm trying to solve [Project Eular](https://projecteuler.net/) problems for learn Go effectively.
 
 ###Installation
 `go get github.com/melihmucuk/ProjectEular`
